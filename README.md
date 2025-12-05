@@ -11,7 +11,7 @@
 ---
 
 ## 📢 Latest Updates
-- **Dec-5-25**： **SDG-Track Paper[arXiv](https://arxiv.org/abs/2512.04883) is released.**
+- **Dec-5-25**： **SDG-Track Paper [arXiv](https://arxiv.org/abs/2512.04883) is released.**
 - **Oct-10-25**： **Follower Stream V3 [Project](https://github.com/Jeffry-wen/Catch-Anything-V3-Multi-strategy-UAV-target-tracking-system) is released.**
 - **Aug-31-25**: Follower Stream V2 **[Code](https://github.com/Jeffry-wen/Catch-Anything-V2-Multi-strategy-UAV-target-tracking-system)** has been uploaded.- **[Test video download link](https://hkustgz-my.sharepoint.com/:v:/g/personal/jwen341_connect_hkust-gz_edu_cn/EXq3_f4CBn5JqND1mnNP1gQBDNmhY5jhLA4gOI3i644RMg?e=TKVQs1)**
  🎉🎉
