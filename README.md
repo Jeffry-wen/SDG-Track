@@ -19,3 +19,15 @@
 - **Aug-2-25**: [Follower Stream V1 [Project]](https://github.com/Jeffry-wen/Drone-Tracking-with-Optical-Flow-and-Color-Histogram) is released. 🔥🔥
 
 ---
+
+## Citation
+
+If you find **SDG-Track** useful in your research or applications, please consider citing our paper:
+
+```bibtex
+@article{wen2025sdg,
+  title={SDG-Track: A Heterogeneous Observer-Follower Framework for High-Resolution UAV Tracking on Embedded Platforms},
+  author={Wen, Jiawen and Hu, Yu and Qiu, Suixuan and Huang, Jinshan and Chu, Xiaowen},
+  journal={arXiv preprint arXiv:2512.04883},
+  year={2025}
+}
